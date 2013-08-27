@@ -1,4 +1,4 @@
-#Additional file 10
+#Additional file 9
 #Evaluate predictive performance of predicter.py
 #Percentvise correct predections of each type
 import string, math, os
